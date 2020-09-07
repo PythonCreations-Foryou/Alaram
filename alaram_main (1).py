@@ -18,7 +18,7 @@ text =Text(root)
 import urllib3
 import webbrowser
 
-#root.iconphoto(False,photo)
+
 Label(root, text = 'Welcome', font =( 
   'Verdana', 15),background = "black",fg = "white").grid(row = 5,columnspan =200,padx=100,pady=10)
 Label(root, text = 'Time in hrs', font =( 
